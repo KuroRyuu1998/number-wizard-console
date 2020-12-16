@@ -1,0 +1,2 @@
+D:\Game Unity I Made\Number Wizard Console\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Game Unity I Made\Number Wizard Console\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
